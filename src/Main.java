@@ -123,7 +123,7 @@ public class Main {
             inserir(stmt, "Maria", "2000-10-18", "2009.44", "Operador");
             inserir(stmt, "João", "1990-05-12", "2284.38", "Operador");
             inserir(stmt, "Caio", "1961-05-02", "9836.14", "Coordenador");
-            inserir(stmt, "Miguel", "1988-01-14", "19119.88", "Diretor");
+            inserir(stmt, "Miguel", "1988-10-14", "19119.88", "Diretor");
             inserir(stmt, "Alice", "1995-01-05", "2234.68", "Recepcionista");
             inserir(stmt, "Heitor", "1999-11-19", "1582.72", "Operador");
             inserir(stmt, "Arthur", "1993-03-31", "4071.84", "Contador");
